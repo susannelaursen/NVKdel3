@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NVKdel3", "NVKdel3\NVKdel3.csproj", "{D5C0BF03-5B2D-403C-B68C-60C4B333E098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALRESTfulUtil", "DALRESTfulUtil\DALRESTfulUtil.csproj", "{6065A6F1-2896-44D9-874D-1D018B580F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C0BF03-5B2D-403C-B68C-60C4B333E098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C0BF03-5B2D-403C-B68C-60C4B333E098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C0BF03-5B2D-403C-B68C-60C4B333E098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C0BF03-5B2D-403C-B68C-60C4B333E098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6065A6F1-2896-44D9-874D-1D018B580F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6065A6F1-2896-44D9-874D-1D018B580F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6065A6F1-2896-44D9-874D-1D018B580F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6065A6F1-2896-44D9-874D-1D018B580F23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0FC33D-4410-4FED-BD05-5FDAD0A281D1}
+	EndGlobalSection
+EndGlobal
